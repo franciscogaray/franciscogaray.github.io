@@ -55,7 +55,7 @@
 		<div="container">
 			<img src="logo.png"/>
 			<h2>¡Escuchanos presionando<br> el botón aquí debajo!</h2>
-			<audio id="audio" src="http://lrk428.ddns.net:8000/stream" preload="auto"></audio>
+			<audio id="audio" src="http://lrk428.ddns.net:8000/stream.aac" preload="auto"></audio>
 			<button id="playPauseButton" class="play">
 				<i class="fas fa-play"></i>
 				<i class="fas fa-pause" style="display: none;"></i>
